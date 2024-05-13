@@ -1,3 +1,3 @@
-# CalculadoraI.M.C
+# Calculadora-I.M.C
 
 Creé un formulario simple que pide al usuario sus datos personales básicos y de salud para determinar su Indice de masa corporal (IMC), todo en un archivo .py. Durante el Bootcamp aprendí a capturar y valida datos, hice uso de operaciones matemáticos y además aprendí a identificar mis errores de sintaxis y de tiempo de ejecución. Calculé exitosamente el IMC y logré imprimir todos los datos de mi terminal. Finalmente subo mi programa a este nuevo repositorio de GitHub para compartirles mi experiencia. Ampliamente recomiendo el Bootcamp de Ucamp para fundamentos de python a todos aquellos que desean comenzar a prénder programación de una forma amigable y creativa.
